@@ -1,0 +1,47 @@
+sepal_length-4.9 
+sepal_length-4.9 sepal_width-3 
+petal_length-1.4 sepal_length-4.9 sepal_width-3 
+petal_length-1.4 petal_width-0.2 sepal_length-4.9 sepal_width-3 
+
+
+sepal_length-4.9 sepal_width-3 
+petal_length-1.4 sepal_length-4.9 sepal_width-3 
+petal_length-1.4 petal_width-0.2 sepal_length-4.9 sepal_width-3 
+
+
+sepal_length-4.9 
+sepal_length-4.9 sepal_width-3 
+petal_length-1.4 sepal_length-4.9 sepal_width-3 
+petal_length-1.4 petal_width-0.2 sepal_length-4.9 sepal_width-3 
+
+
+sepal_length-4.9 
+sepal_length-4.9 sepal_width-3 
+petal_length-1.4 sepal_length-4.9 sepal_width-3 
+petal_length-1.4 petal_width-0.2 sepal_length-4.9 sepal_width-3 
+
+
+sepal_length-4.9 
+sepal_length-4.9 sepal_width-3 
+petal_length-1.4 sepal_length-4.9 sepal_width-3 
+petal_length-1.4 petal_width-0.2 sepal_length-4.9 sepal_width-3 
+
+
+sepal_length-4.9 
+sepal_length-4.9 sepal_width-3 
+petal_length-1.4 sepal_length-4.9 sepal_width-3 
+petal_length-1.4 petal_width-0.2 sepal_length-4.9 sepal_width-3 
+
+
+sepal_length-4.9 
+sepal_length-4.9 sepal_width-3 
+petal_length-1.4 sepal_length-4.9 sepal_width-3 
+petal_length-1.4 petal_width-0.2 sepal_length-4.9 sepal_width-3 
+
+
+sepal_length-4.9 
+sepal_length-4.9 sepal_width-3 
+petal_length-1.4 sepal_length-4.9 sepal_width-3 
+petal_length-1.4 petal_width-0.2 sepal_length-4.9 sepal_width-3 
+
+
